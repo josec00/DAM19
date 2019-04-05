@@ -69,6 +69,10 @@ ___
 #### septiembre
 ![analisis agosto](./images/analisis_septiembe.png)
 
+___
+
+[Hoja de datos](https://docs.google.com/spreadsheets/d/1aD-ns7Sn-CkdsqksXtFFtGMtAIE8nYDhm9VCSs9S1P4/edit?usp=sharing)
+
 
 ### Conclusión 
 
